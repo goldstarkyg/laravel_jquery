@@ -1,6 +1,11 @@
-# Laravel and AngularJS CMS
+# Laravel and AngularJS CMS and jQuery
 
 CMS built on Laravel 5.1, AngularJS 1.4.7 and Responsive Material Design
+This is developed with sample by client of India
+
+DataBase is laravel2_sql.rar
+
+
 
 ## Features
 
